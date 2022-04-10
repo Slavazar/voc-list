@@ -1,6 +1,7 @@
 # voc-list
 
 Web application
+
 The application is written using
 - PHP
 - Larvel 9.x framework
